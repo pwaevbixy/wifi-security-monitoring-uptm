@@ -15,8 +15,6 @@ You can download the complete All-in-One WP Migration backup file (for full site
 
 > ⚠️ *To restore this backup, please use the "All-in-One WP Migration" plugin in WordPress.*
 
-## 📅 Project Info
-- **Developer:** Faiezun Binti Mohamad Faizal  
-- **Supervisor:** Madam Jihadah Binti Ahmad  
+## 📅 Project Info 
 - **Course:** Bachelor of Information Technology (Cybersecurity)  
 - **Semester:** 7
