@@ -1,0 +1,3 @@
+[21-Mar-2025 01:36:47 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Acer\Local Sites\wi-ptm\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[21-Mar-2025 01:50:55 UTC] PHP Warning:  Undefined variable $data_file in C:\Users\Acer\Local Sites\wi-ptm\app\public\wp-content\plugins\ansar-import\includes\class-ansar-import.php on line 216
+[21-Mar-2025 01:50:55 UTC] PHP Warning:  Undefined variable $data_file in C:\Users\Acer\Local Sites\wi-ptm\app\public\wp-content\plugins\ansar-import\includes\class-ansar-import.php on line 218

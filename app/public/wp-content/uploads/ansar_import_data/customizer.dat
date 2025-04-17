@@ -1,0 +1,6 @@
+a:4:{s:8:"template";s:6:"newsxo";s:4:"mods";a:14:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:9;}s:18:"custom_css_post_id";i:90;s:27:"select_latest_news_category";i:4;s:11:"custom_logo";i:75;s:16:"header_textcolor";s:5:"blank";s:25:"footer_social_icon_enable";b:1;s:18:"newsxo_menu_search";b:1;s:25:"newsxo_lite_dark_switcher";b:1;s:20:"sticky_header_toggle";b:1;s:12:"header_image";s:13:"remove-header";s:27:"newsxo_header_overlay_color";s:0:"";s:19:"header_image_height";s:46:"{"desktop":"200","tablet":"150","mobile":"90"}";s:19:"newsxo_menu_sidebar";b:1;}s:7:"options";a:2:{s:9:"site_icon";s:2:"76";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:132:".dark .site-logo a.navbar-brand img {
+    filter: contrast(0) brightness(2);
+}
+footer.one .site-branding-text {
+    display: none;
+}";}

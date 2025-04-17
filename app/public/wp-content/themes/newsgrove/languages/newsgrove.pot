@@ -1,0 +1,215 @@
+# Copyright (C) 2025 newsgrove
+# This file is distributed under the same license as the newsgrove package.
+msgid ""
+msgstr ""
+"Project-Id-Version: newsgrove\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-02-13 11:52+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../functions.php:63, ../patterns/footer.php:14
+msgid "NewsGrove"
+msgstr ""
+
+#: ../patterns/404.php:14
+msgid "404: Page Not Disco-vered"
+msgstr ""
+
+#: ../patterns/404.php:18
+msgid "Looks like the dance floor is empty here! This page has done a disappearing act. Head back to the main stage by clicking the navigation links, and let's keep the party going!"
+msgstr ""
+
+#: ../patterns/404.php:25
+msgid "Go to home page"
+msgstr ""
+
+#: ../patterns/about.php:16
+msgid " Sed magna purus fermentum eu"
+msgstr ""
+
+#: ../patterns/about.php:20, ../patterns/about.php:24
+msgid " Phasellus nec sem in justo pellentesque facilisis. Praesent porttitor, nulla vitae posuere iaculis, arcu nisl dignissim dolor, a pretium mi sem ut ipsum. Morbi mattis ullamcorper velit. In hac habitasse platea dictumst. Quisque id odio."
+msgstr ""
+
+#: ../patterns/about.php:28
+msgid " Proin magna. Ut leo. Etiam rhoncus. Nullam quis ante. Morbi ac felis."
+msgstr ""
+
+#: ../patterns/about.php:33
+msgid "Read More"
+msgstr ""
+
+#: ../patterns/archive-product.php:55
+msgid "No products were found matching your selection. "
+msgstr ""
+
+#: ../patterns/archive.php:46, ../patterns/blog-full-width.php:47, ../patterns/blog-left.php:51
+msgid " No posts found"
+msgstr ""
+
+#: ../patterns/author.php:17, ../patterns/must-read.php:64
+msgid "John Doe"
+msgstr ""
+
+#: ../patterns/author.php:21, ../patterns/must-read.php:68
+msgid "Senior Editor"
+msgstr ""
+
+#: ../patterns/author.php:25, ../patterns/must-read.php:72
+msgid "Aliquam eu nunc. Nam eget dui. Ut non enim eleifend felis pretium feugiat. Donec quam felis, ultricies nec,"
+msgstr ""
+
+#: ../patterns/blog-full-width.php:9, ../patterns/post.php:10
+msgid "Articles"
+msgstr ""
+
+#: ../patterns/blog-left.php:9
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: ../patterns/blog-list.php:9
+msgid "Blog Style List"
+msgstr ""
+
+#: ../patterns/blog-list.php:47, ../patterns/blog-right.php:47, ../patterns/post.php:48
+msgid " No posts found "
+msgstr ""
+
+#: ../patterns/blog-right.php:9
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: ../patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: ../patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: ../patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: ../patterns/footer.php:18
+msgid "Maecenas egestas arcu quis ligula mattis placerat. Cras dapibus. In auctor lobortis lacus. Nulla porta dolor. Suspendisse faucibus, nunc et pellentesque egestas, lacus ante convallis tellus, vitae iaculis lacus elit id tortor."
+msgstr ""
+
+#: ../patterns/footer.php:23
+msgid "+01-123-245-678"
+msgstr ""
+
+#: ../patterns/footer.php:29
+msgid "Example@example.com"
+msgstr ""
+
+#: ../patterns/footer.php:44
+msgid "Useful Links"
+msgstr ""
+
+#: ../patterns/footer.php:52
+msgid "Photo's"
+msgstr ""
+
+#: ../patterns/footer.php:80
+msgid "Read This"
+msgstr ""
+
+#: ../patterns/footer.php:105
+msgid "Suscribe to us now and stay updated with the latest news!"
+msgstr ""
+
+#: ../patterns/footer.php:109
+msgid "Add Your Form Shortcode Here"
+msgstr ""
+
+#: ../patterns/footer.php:120
+msgid "Designed with"
+msgstr ""
+
+#: ../patterns/footer.php:120
+msgid "WordPress "
+msgstr ""
+
+#: ../patterns/footer.php:124
+msgid "Developed By "
+msgstr ""
+
+#: ../patterns/footer.php:124
+msgid "Themegrove.com"
+msgstr ""
+
+#: ../patterns/header.php:23
+msgid "Suscribe Us!"
+msgstr ""
+
+#: ../patterns/must-read.php:14
+msgid "Must Read"
+msgstr ""
+
+#: ../patterns/must-read.php:19, ../patterns/tech-news.php:17, ../patterns/trending-news.php:17, ../patterns/video-image-news.php:19, ../patterns/you-missed.php:19
+msgid "View All"
+msgstr ""
+
+#: ../patterns/must-read.php:44
+msgid "Politics"
+msgstr ""
+
+#: ../patterns/must-read.php:86
+msgid "Stay Connected"
+msgstr ""
+
+#: ../patterns/photo-news.php:12
+msgid "Photo's Of The Day"
+msgstr ""
+
+#: ../patterns/photo-news.php:17
+msgid "View All "
+msgstr ""
+
+#: ../patterns/search.php:54
+msgid "No posts found"
+msgstr ""
+
+#: ../patterns/sidebar.php:15
+msgid "Latest Posts"
+msgstr ""
+
+#: ../patterns/sidebar.php:23
+msgid "Categories"
+msgstr ""
+
+#: ../patterns/sidebar.php:31
+msgid "Tags"
+msgstr ""
+
+#: ../patterns/single-post.php:34
+msgid "Related Articles"
+msgstr ""
+
+#: ../patterns/single-product.php:10
+msgid "Single Product"
+msgstr ""
+
+#: ../patterns/single-product.php:58
+msgid "Related Products"
+msgstr ""
+
+#: ../patterns/video-image-news.php:14
+msgid "News By Video And Images"
+msgstr ""
+
+#: ../patterns/video-image-news.php:28
+msgid "Add your video link"
+msgstr ""
+
+#: ../patterns/you-missed.php:14
+msgid "You Missed"
+msgstr ""

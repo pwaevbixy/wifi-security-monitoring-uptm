@@ -1,0 +1,77 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: April 4, 2025 4:36 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.12
+WORDPRESS:	6.7.1
+PHP INFO:	8.2.27 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: [60] not allowed 
+PHP MAX MEMORY: Unabled to set php memory_limit 
+MEMORY STACK: 107MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:71 | filtered:0 | create:71
+FILTERED: []
+SQL CREATED: 20250404_0346c8c7e83ad1ab1405_20250404043608_database.sql
+SQL FILE SIZE: 1.63MB (1705165)
+SQL FILE TIME: 2025-04-04 04:36:40
+SQL RUNTIME: 0.17 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/vol5_7/infinityfree.com/if0_38568033/htdocs
+ARCHIVE FILE: 20250404_0346c8c7e83ad1ab1405_20250404043608_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0
+SQL ADDED: 20250404_0346c8c7e83ad1ab1405_20250404043608_database.sql
+ZipArchive Object
+(
+    [lastId] => 0
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /home/vol5_7/infinityfree.com/if0_38568033/htdocs/wp-content/backups-dup-lite/tmp/20250404_0346c8c7e83ad1ab1405_20250404043608_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 0
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 314.5KB
+ARCHIVE RUNTIME: 0.10 sec.
+MEMORY STACK: 109MB
+building installer
+[PHP ERR][WARN] MSG:is_readable(): open_basedir restriction in effect. File(/dev/urandom) is not within the allowed path(s): (/php_sessions:/tmp:..:/var/www/errors:/home/vol5_7/infinityfree.com/if0_38568033/htdocs) [CODE:2|FILE:/home/vol5_7/infinityfree.com/if0_38568033/htdocs/wp-content/plugins/duplicator/classes/class.password.php|LINE:65]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Installer->build, DUP_Installer->create_enhanced_installer_files, DUP_Installer->create_archive_config_file, DUP_PasswordHash->HashPassword, DUP_PasswordHash->get_random_bytes, is_readable, DUP_Handler::error, DUP_Handler::getMessage
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 1.63MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 2.08MB 
+EXPECTED FILE/DIRECTORY COUNT: 0
+ACTUAL FILE/DIRECTORY COUNT: 0
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 1.62 sec.
+PEAK PHP MEMORY USED: 111MB
+DONE PROCESSING => 20250404 April 4, 2025 4:36 am
+

@@ -1,0 +1,3 @@
+Apr 04 2025 16:12:08
+{"type":8192,"message":"PHP Request Shutdown: Use of mbstring.http_input is deprecated","file":"Unknown","line":0}
+
