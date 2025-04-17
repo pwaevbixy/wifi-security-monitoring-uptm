@@ -1,7 +1,6 @@
 # 📶 Wi-Fi Signal and Security Monitor Website for UPTM Network
 
 This is the final year project website for monitoring Wi-Fi signal strength and network security within UPTM. The system includes:
-- Real-time count of connected devices
 - Security insights with threat detection features
 - Interactive floor-by-floor Wi-Fi signal mapping
 - Built-in internet speed test tools
