@@ -1,4 +1,4 @@
-# 📶 Wi-Fi Signal and Security Monitor Website for UPTM Network
+# 📶 Wi-Fi Signal and Security Monitor System for UPTM 
 
 This is the final year project website for monitoring Wi-Fi signal strength and network security within UPTM. The system includes:
 - Security insights with threat detection features
